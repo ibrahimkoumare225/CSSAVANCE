@@ -1,0 +1,30 @@
+.blanc{
+    border: 2px solid yellow;
+    height: 74px;
+    width: 300px;
+    background-color: green;
+}
+.griss{
+    border: 2px solid gray;
+    height: 72px;
+    width: 300px;
+    background-color: gray;
+}
+.grise{
+  border: 2px solid darkgrey;
+  height: 70px;
+  width: 298px;
+    background-color: darkgrey;
+}
+.bleu{
+    border: 2px solid dodgerblue;
+    height: 55px;
+    width: 70px;
+
+}
+.orange{
+    border: 2px solid orange;
+    height: 55px;
+    width: 70px;
+    background-color: orange;
+}
